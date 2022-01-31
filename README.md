@@ -23,5 +23,5 @@ A very user friendly application for managers to efficiently interact with a dat
   <li> All of which occur instantaneously on both the users end and the database</li>
   <li> Thorough error checking and efficiency testing</li>
   <li> Elegant usage of colours, CSS Styling, and interactive buttons/modals
-</ul>
-![Index](https://user-images.githubusercontent.com/76471599/151757881-dbb606ae-c927-4ba0-ab8a-306f8e04410f.png)
+</ul><br>
+![Index](https://user-images.githubusercontent.com/76471599/151757922-24aea3fe-c219-4c1b-99da-056c176538d1.png)
