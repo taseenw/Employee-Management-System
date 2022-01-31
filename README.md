@@ -1,11 +1,10 @@
 # Employee-Management-System
 An easy to use applications for managers to review, store, modify, and delete their employees data in one place
-<html>
-<style>
+
   ul{
     list-style-type: kannada;
   }
-</style>
+
 This application is a showcase of some of my PHP, SQL, JavaScript, and HTML/CSS web developement capabilities
 
 A very user friendly application for managers to efficiently interact with a database filled with their employees featuring:
@@ -23,4 +22,3 @@ A very user friendly application for managers to efficiently interact with a dat
   <br>
   <li>◉ All of which occur instantaneously on both the users end and the database</li>
 </ul>
-</html>
