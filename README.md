@@ -23,8 +23,4 @@ A very user friendly application for managers to efficiently interact with a dat
   <li> All of which occur instantaneously on both the users end and the database</li>
   <li> Thorough error checking and efficiency testing</li>
   <li> Elegant usage of colours, CSS Styling, and interactive buttons/modals
-</ul><br>
-</html>
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
-
+</ul><br>![Index](https://user-images.githubusercontent.com/76471599/151758068-380fd80f-65fb-49df-8a40-d8d811ee12fe.png)
