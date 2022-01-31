@@ -10,7 +10,7 @@ A very user friendly application for managers to efficiently interact with a dat
     <li>Recognition of wrong password vs. non existant unregistered username</li>
   <ul>
   <li> Abilities to view all of the managers and employees that belong to the same company</li>
-    </ul>
+  </ul>
   <br>
   <li> Using well structured tables modals and forms, users can:</li>
   <ul>
