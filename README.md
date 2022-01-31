@@ -8,9 +8,9 @@ A very user friendly application for managers to efficiently interact with a dat
   <br>◉ Abilities to view all of the managers and employees that belong to the same company
   
   ◉ Using well structured tables modals and forms, users can:
-    <br><t>· Add new employees
-    <br><t>· Edit any small detail of any desired employee in their company
-    <br><t>· Remove employees from the systems
-    <br><t>· Add managers to the company, that can login themselves and view the same employees
+    <br>· Add new employees
+    <br>· Edit any small detail of any desired employee in their company
+    <br>· Remove employees from the systems
+    <br>· Add managers to the company, that can login themselves and view the same employees
     
   ◉ All of which occur instantaneously on both the users end and the database
