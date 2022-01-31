@@ -1,5 +1,6 @@
 # Employee-Management-System
 An easy to use applications for managers to review, store, modify, and delete their employees data in one place
+<html>
 <style>
   ul{
     list-style-type: kannada;
@@ -22,3 +23,4 @@ A very user friendly application for managers to efficiently interact with a dat
   <br>
   <li>◉ All of which occur instantaneously on both the users end and the database</li>
 </ul>
+</html>
