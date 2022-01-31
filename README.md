@@ -4,8 +4,8 @@ An easy to use applications for managers to review, store, modify, and delete th
 This application is a showcase of some of my PHP, SQL, JavaScript, and HTML/CSS web developement capabilities
 
 A very user friendly application for managers to efficiently interact with a database filled with their employees featuring:
-  ◉ Secure login and account information storage and function (passwords hashed, and upon logout all session details are destroyed)
-  ◉ Abilities to view all of the managers and employees that belong to the same company
+  <br>◉ Secure login and account information storage and function (passwords hashed, and upon logout all session details are destroyed)
+  <br>◉ Abilities to view all of the managers and employees that belong to the same company
   
   ◉ Using well structured tables modals and forms, users can:
     <br><t>· Add new employees
