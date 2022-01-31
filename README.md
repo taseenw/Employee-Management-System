@@ -8,9 +8,8 @@ A very user friendly application for managers to efficiently interact with a dat
   <li> Secure login and account information storage and function (passwords hashed, and upon logout all session details are destroyed)</li>
   <ul>
     <li>Recognition of wrong password vs. non existant unregistered username</li>
-  <ul>
-  <li> Abilities to view all of the managers and employees that belong to the same company</li>
   </ul>
+  <li> Abilities to view all of the managers and employees that belong to the same company</li>
   <br>
   <li> Using well structured tables modals and forms, users can:</li>
   <ul>
