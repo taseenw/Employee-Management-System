@@ -13,10 +13,11 @@ A very user friendly application for managers to efficiently interact with a dat
   <br>
   <li> Using well structured tables modals and forms, users can:</li>
   <ul>
+    <li> Easily view their entire staff/management uploaded alphabetically</li>
     <li> Add new employees</li>
     <li> Edit any small detail of any desired employee in their company</li></li>
     <li> Remove employees from the systems</li>
-    <li> Add managers to the company, that can login themselves and view the same employees</li>
+    <li> Add managers to the company, that can login themselves and also use the program with the same employees</li>
   </ul>
   <br>
   <li> All of which occur instantaneously on both the users end and the database</li>
