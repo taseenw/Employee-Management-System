@@ -24,7 +24,7 @@ A very user friendly application for managers to efficiently interact with a dat
   <li> Thorough error checking and efficiency testing</li>
   <li> Elegant usage of colours, CSS Styling, and interactive buttons/modals
 </ul>
-![Index](https://user-images.githubusercontent.com/76471599/151757344-3ff566ce-8561-406f-bad0-38b109e7a759.png)
+[Index](https://user-images.githubusercontent.com/76471599/151757344-3ff566ce-8561-406f-bad0-38b109e7a759.png)
 ![index-signup](https://user-images.githubusercontent.com/76471599/151757345-d62f789c-a29d-4ea0-8b17-9a3cf8f483e4.png)
 ![userHome](https://user-images.githubusercontent.com/76471599/151757356-532c5a58-752b-4cc5-ba5f-cf5644221103.png)
 ![employeeHub](https://user-images.githubusercontent.com/76471599/151757357-0ac69731-86c9-442f-812e-a49b44e44dc9.png)
