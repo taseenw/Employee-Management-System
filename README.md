@@ -1,6 +1,5 @@
 # Employee-Management-System
 An easy to use applications for managers to review, store, modify, and delete their employees data in one place
-![Index](https://user-images.githubusercontent.com/76471599/151758068-380fd80f-65fb-49df-8a40-d8d811ee12fe.png)
 This application is a showcase of some of my PHP, SQL, JavaScript, and HTML/CSS web developement capabilities
 
 A very user friendly application for managers to efficiently interact with a database filled with their employees featuring:
@@ -24,3 +23,4 @@ A very user friendly application for managers to efficiently interact with a dat
   <li> Thorough error checking and efficiency testing</li>
   <li> Elegant usage of colours, CSS Styling, and interactive buttons/modals
 </ul><br>
+![Index](https://user-images.githubusercontent.com/76471599/151758068-380fd80f-65fb-49df-8a40-d8d811ee12fe.png)
