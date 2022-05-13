@@ -25,6 +25,8 @@ A very user friendly application for managers to efficiently interact with a dat
   <li> Elegant usage of colours, CSS Styling, and interactive buttons/modals
 </ul><br>
 
+Haha, didn't use a css file as I am a fool :)
+
 ![Index](https://user-images.githubusercontent.com/76471599/151758068-380fd80f-65fb-49df-8a40-d8d811ee12fe.png)
 ![index-signup](https://user-images.githubusercontent.com/76471599/151758209-d9dbf355-f515-477f-bdef-9e0db396bc22.png)
 ![userHome](https://user-images.githubusercontent.com/76471599/151758226-f4ff1c26-4c31-41ea-9c57-b0ae3fc86aff.png)
